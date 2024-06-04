@@ -13,5 +13,5 @@ Prerequisites
 - Write Terraform Configuration: Create the following Terraform files in your project directory:
 - main.tf: Define AWS resources (EC2 instance, S3 bucket, CloudFront distribution, etc.). Customize the configuration according to requirements.
 - Initialize and Apply: Run the following commands to initialize your Terraform project and create the resources:
-- terraform init
-- terraform apply
+<- terraform init>
+<- terraform apply>
