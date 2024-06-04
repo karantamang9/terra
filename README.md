@@ -20,7 +20,7 @@ Prerequisites
 Remember to destroy the resources when done:
 
 - <terraform destroy>
-###Terraforme script 
+### Terraforme script 
 - Provider.tf
 
 - Resource.tf
