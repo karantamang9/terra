@@ -9,4 +9,6 @@ Prerequisites
 - Terraform Installation: Install Terraform on my local machine and download it from the official website.
   ### Steps
 - Clone the Repository: Clone this repository to local machine.
-- Configure Environment Variables: Set the following environment variables in Docker container:
+- Configure Environment Variables: Set the following environment variables in Docker container.
+- Write Terraform Configuration: Create the following Terraform files in your project directory:
+- main.tf: Define AWS resources (EC2 instance, S3 bucket, CloudFront distribution, etc.). Customize the configuration according to requirements.
