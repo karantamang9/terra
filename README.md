@@ -17,8 +17,8 @@ Prerequisites
 <- terraform apply>
 - Access  Web Application: Once Terraform completes the deployment, I will get the public IP address of EC2 instance. Access web application using that IP address.
 - Cleanup
-Remember to destroy the resources when you’re done:
+Remember to destroy the resources when done:
 
-- terraform destroy
+- <terraform destroy>
 
   
